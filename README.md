@@ -19,4 +19,12 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-ara%C3%BAjo-4668a3139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://exercism.org/profiles/JVMartyns" target="_blank"><img src="https://img.shields.io/badge/-Exercism-54039A?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
 </div>
-
+  
+   ##
+  
+<div align="left">
+<p align="rigth">
+  Visitantes: 
+  <img align="center"src="https://profile-counter.glitch.me/JVMartyns/count.svg"/>
+</p>
+</div>
