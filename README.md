@@ -31,7 +31,7 @@
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline-block"><br>
+<div style="display:flex;>
   <img alt="Elixir" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img alt="Phoenix" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg">
   <img alt="Ash Framework" height="40" src="https://ash-hq.org/images/ash-logo-cropped.svg">
@@ -40,7 +40,7 @@
   <img alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   <img alt="Redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
   <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="ClickHouse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" />
+  <img alt="ClickHouse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg">
   <img alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img alt="AWS S3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -61,6 +61,24 @@
 | [PPlusFirestore](https://github.com/PagoPlus/pplus-firestore) | Wrapper Elixir para a API oficial do Cloud Firestore |
 | [PPNet](https://github.com/monoflow-ayvu/pp_net) | Protocolo de mensagens com correção de erros (Reed-Solomon) e framing (COBS) |
 | [AshClickhouse](https://github.com/monoflow-ayvu/ash_clickhouse) | Data layer adapter do ClickHouse para o Ash Framework |
+
+</div>
+
+##
+
+## 🤝 Contribuições Open Source
+
+<div align="left">
+
+| Projeto | Descrição | Contribuições |
+|---|---|---|
+| [Ch](https://github.com/plausible/ch) | Cliente HTTP ClickHouse para Elixir | [Adição de suporte a opções de tipo JSON](https://github.com/plausible/ch/pull/309) |
+| [Machete](https://github.com/mtrudel/machete) | Matchers literais para ExUnit | [Adição de matcher genérico para tipos numéricos](https://github.com/mtrudel/machete/pull/74) |
+| [AshGraphql](https://github.com/ash-project/ash_graphql) | Extensão GraphQL para o Ash Framework | [Correção de argumentos `nil` em paginação aninhada](https://github.com/ash-project/ash_graphql/pull/394)<br>[Correção na avaliação de filtros em subscriptions](https://github.com/ash-project/ash_graphql/pull/388) |
+| [Ash](https://github.com/ash-project/ash) | Framework declarativo para aplicações Elixir | [Correção de falha em leituras entre data layers distintos](https://github.com/ash-project/ash/pull/2489) |
+| [ExHLS](https://github.com/membraneframework/ex_hls) | Cliente HLS para Elixir | [Adição de suporte a URIs absolutas de segmentos no download](https://github.com/membraneframework/ex_hls/pull/21) |
+| [TelemetryMetricsAppsignal](https://github.com/surgeventures/telemetry_metrics_appsignal) | Reporter de métricas Telemetry para AppSignal | [Adição de suporte à versão 1.0 do `telemetry_metrics`](https://github.com/surgeventures/telemetry_metrics_appsignal/pull/15) |
+| [PokeAPI](https://github.com/PokeAPI/pokeapi) | API RESTful de dados Pokémon | [Adição de busca por nome parcial](https://github.com/PokeAPI/pokeapi/pull/1065) |
 
 </div>
 
