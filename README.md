@@ -31,7 +31,7 @@
 
 ## 🛠️ Tecnologias
 
-<div style="display:flex;>
+<div style="display:flex;">
   <img alt="Elixir" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img alt="Phoenix" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg">
   <img alt="Ash Framework" height="40" src="https://ash-hq.org/images/ash-logo-cropped.svg">
